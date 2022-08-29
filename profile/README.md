@@ -1,4 +1,4 @@
-# Los Santos Streetz Roleplay
+# GTA:V Multiplayer
 
 ## Code of Conduct
 
